@@ -36,6 +36,7 @@
 - На главной странице при скроллинге объявлений работает пагинация для оптимизации.
 - Реализована работа с JWT-токенами и обработкой 401 ошибки. Настроен сетевой слой с кастомным DI-контейнером.
 - Чат(WebSockets; в разработке).
+  
 **Стек:** SwiftUI, async/await, URLSession, DI, Keychain, UserDefaults, MVVM, JWT
 
 **Ссылка на проект:** [GitHub Repository](https://github.com/shabanovdanila/studymeet) 
@@ -47,6 +48,7 @@
 **Особенности:** 
 - Всё работает на протоколах в связке с DI, что позволяет легко подставлять разные реализации, что удобно для тестов.
 - Получен опыт работы с Combine
+  
 **Стек:** SwiftUI, async/await, URLSession, DI, Combine, MVVM
 
 **Ссылка на проект:** [GitHub Repository](https://github.com/shabanovdanila/ShortenerLink) 
@@ -59,6 +61,7 @@
 - Работает пагинация при скроллинге главной страницы.
 - При детальном просмотре карточки персонажа есть возможность добавить персонажа в избранное. Персонаж сохранится в память с помощью Realm. 
 - Если нет доступа к интернету, то будет доступен только список избранных персонажей.
+  
 **Стек:** UIKit, async/await, URLSession, MVP+R, Realm
 
 **Ссылка на проект:** [GitHub Repository](https://github.com/shabanovdanila/RickAndMorty) 
