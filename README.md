@@ -1,7 +1,9 @@
 # Шабанов Данила
 
 📍 Россия, Воронеж | 📧 danila20041966@gmail.com
+
 🔗 **GitHub:** [github.com/shabanovdanila](https://github.com/shabanovdanila)  
+
 🔗 **Telegram:** [t.me/yayayayeah](https://t.me/yayayayeah)  
 
 ## О себе  
