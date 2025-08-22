@@ -22,7 +22,7 @@
 
 **Архитектуры:** MVC, MVVM, MVP(MVP+R)
 
-**Работа с памятью:** UserDefaults, KeyChain, Realm
+**Работа с памятью:** UserDefaults, KeyChain, Realm, Core Data
 
 **Общее:** ООП, Алгоритмы и структуры данных, SOLID, DI, Паттерны проектирования, KISS DRY YAGNI
 
